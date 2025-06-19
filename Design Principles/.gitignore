@@ -1,0 +1,30 @@
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Build output
+bin/
+out/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.idea/
+*.iml
+*.class
+target/
+out/
+# Ignore IDE settings for all subprojects
+.idea/
+*.iml
+
+# Ignore compiled Java class files
+*.class
+
+# Optional: ignore logs and system files
+*.log
+.DS_Store
+
